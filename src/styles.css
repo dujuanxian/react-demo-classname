@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 40px;
+}
+
+.bgYellow {
+  background: yellow;
+}
+
+.colorBlue {
+  color: blue;
+}
